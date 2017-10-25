@@ -83,6 +83,7 @@ backporting a subset of the new native functionality.
 
 Sure, stick it under `~/.vim/bundle`, and prepend the following to your
 vimrc:
+  # Hello world
 
     runtime bundle/vim-pathogen/autoload/pathogen.vim
 
